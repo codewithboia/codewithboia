@@ -3,7 +3,7 @@
 Sou um estudante apaixonado por programação e tecnologia. Tenho experiência em desenvolver aplicações web e móveis usando JavaScript e Python. Estou sempre buscando aprender novas habilidades e desafiar-me com projetos criativos.
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tthiagoboia2911@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://tthiagoboia2911@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiag0_marquez/?next=%2F)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ideal_Oficiall)
 
