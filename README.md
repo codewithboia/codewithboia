@@ -1,6 +1,6 @@
 ### Olá! eu sou Thiago Marques ✅
 
-Sou um estudante apaixonado por programação e tecnologia. Tenho experiência em desenvolver aplicações web e móveis usando JavaScript e Python. Estou sempre buscando aprender novas habilidades e desafiar-me com projetos criativos.
+Sou um estudante apaixonado por programação e tecnologia. Tenho experiência em desenvolver aplicações web e móveis usando JavaScript e TypeScript. Estou sempre buscando aprender novas habilidades e desafiar-me com projetos criativos.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://tthiagoboia2911@gmail.com)
