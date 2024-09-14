@@ -1,11 +1,10 @@
-### Olá! eu sou Thiago Marques ✅
+### Hi dear! eu sou Thiago Marques ✅
 
-Sou um estudante apaixonado por programação e tecnologia. Tenho experiência em desenvolver aplicações web e móveis usando JavaScript e TypeScript. Estou sempre buscando aprender novas habilidades e desafiar-me com projetos criativos.
+Desenvolvedor especializado em TypeScript, com experiência em criar soluções robustas e escaláveis no front-end e back-end. Focado em aplicar boas práticas de desenvolvimento para melhorar a performance e a qualidade dos projetos. Comprometido em entregar código limpo, eficiente e bem documentado, garantindo excelência em cada etapa do desenvolvimento. Sempre explorando novas ferramentas e frameworks para resolver problemas de forma criativa e prática.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://tthiagoboia2911@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiag0_marquez/?next=%2F)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ideal_Oficiall)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithboia&show_icons=true&theme=dracula)
 
